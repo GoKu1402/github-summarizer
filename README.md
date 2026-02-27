@@ -4,15 +4,15 @@ A FastAPI service that analyzes GitHub repositories and generates intelligent su
 
 ## Features
 
-- ✅ Analyzes public GitHub repositories
-- ✅ Web UI at `http://localhost:8000` — no curl needed
-- ✅ Detailed summaries: overview, technologies, architecture, key features, use cases, and getting started guide
-- ✅ Intelligent file filtering and prioritization
-- ✅ Context-aware LLM prompting
-- ✅ Support for multiple LLM providers (Nebius, Anthropic, OpenAI)
-- ✅ GitHub token support to avoid API rate limits
-- ✅ Comprehensive error handling
-- ✅ RESTful API with proper HTTP status codes
+- Analyzes public GitHub repositories
+- Web UI at `http://localhost:8000` — no curl needed
+- Detailed summaries: overview, technologies, architecture, key features, use cases, and getting started guide
+- Intelligent file filtering and prioritization
+- Context-aware LLM prompting
+- Support for multiple LLM providers (Nebius, Anthropic, OpenAI)
+- GitHub token support to avoid API rate limits
+- Comprehensive error handling
+- RESTful API with proper HTTP status codes
 
 ## Setup Instructions
 
